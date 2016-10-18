@@ -1,5 +1,6 @@
 {
 	"id": "nodejs",
+	"port": 3000,
 	"type": "wedeploy/nodejs",
 	"hooks": {
 		"build": "npm install"
